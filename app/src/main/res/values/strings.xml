@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Collect Words</string>
+    <string name="save_word">SAVE WORD</string>
+    <string name="clear_words">CLEAR WORDS</string>
+    <string name="show_words">SHOW WORDS</string>
+    <string name="word">Word</string>
+    <string name="no_words">No words</string>
+    <string name="add_new_word">Add new word</string>
+</resources>
